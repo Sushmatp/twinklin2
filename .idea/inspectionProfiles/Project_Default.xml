@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="static" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true">
+        <option name="ignoredPackages">
+          <value>
+            <list size="0" />
+          </value>
+        </option>
+      </scope>
+      <option name="ignoredPackages">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="blog.mandates.models.Mandate.all" />
+          <option value="blog.blog.urls.mandates" />
+          <option value="users.views" />
+          <option value="rlog.rlog.urls.mandates" />
+          <option value="rlog.rlog.urls.candidate_pipeline" />
+          <option value="rlog.mandates.views.resources" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
